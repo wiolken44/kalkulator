@@ -17,7 +17,7 @@ public class KajkGui extends javax.swing.JFrame {
     
    // DecimalFormat format = new DecimalFormat("0.#");
    // txtDisplay.setText(format.format(an));
-    
+   // ooolllololo
     
     
     public KajkGui() {
